@@ -5,7 +5,7 @@ Welcome to the Flipkart Clone repository! This project aims to replicate the bas
 
 ## Demo
 
-🌐 [Live Demo](#) <!-- Add the link to your live demo here -->
+🌐 [Live Demo](#) <https://samiksha1503.github.io/Flipkart-clone/>
 
 ## Features 🚀
 
