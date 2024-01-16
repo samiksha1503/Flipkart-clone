@@ -1,4 +1,6 @@
 
+
+![image](https://github.com/samiksha1503/Flipkart-clone/assets/131444629/8152aedd-034d-4b84-b742-940d19847be4)
 # Flipkart Clone 🛒
 
 Welcome to the Flipkart Clone repository! This project aims to replicate the basic functionality and design of the popular e-commerce platform, Flipkart, using HTML, CSS, and JavaScript for the frontend.
